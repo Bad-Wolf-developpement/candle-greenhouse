@@ -40,7 +40,7 @@ Managing a greenhouse using candle controller:
 # Technologie:
 
 - Rpi (maybe small form factor)
-- Zigbee (more private and reliable
+- Zigbee (more private and reliable)
 - Zigbee device
 - Arduino?
 - Xbee?
