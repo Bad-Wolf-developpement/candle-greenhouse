@@ -2,7 +2,7 @@
 Greenhouse system using the candle smarthome controller
 
 
-##Idea:
+## Idea:
 
 Managing a greenhouse using candle controller:
 
