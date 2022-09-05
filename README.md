@@ -48,6 +48,26 @@ Managing a greenhouse using candle controller:
 - water flow sensor
 - windows sensor(open close) or pressur button when windows is closed)
 
+# Interface
 
+The main idea for the interface will be to have it indepedent of the backend, so we could also includ it as an "addon" to the standard candle controller.
+Maybe creating it as a full addon with independant url (candle.local/greenhouse) or somethings like that so we will focuse on only 1 addons that will serve both feature
 
+- The interface will be based on candle controller, but mainly focused on the greenhouse management so lot of stuff will be removed/hide)
+- Maybe a "gui" monitoring interface with graphic and stuff could be possible
+- for better usage, we could find a way to make the gui "optional" and have it added as an addon to a standard candle addon
 
+# Addons
+
+The Addons will have the following feature:
+- Disable main candle interface
+- Disable unusefull addon(a list is to build)
+- Manage is own rules outside of the standard rules engine(or use the main rule engine if we could access it from the python-addon library)
+- Disaply Monitoring interface
+- Add things(controller)
+- Manage Alert triggered by rules(ex no external power(only on battery), water leak, etc...)
+- Take/Send picture of harvest every X time
+- have his own settings page
+- have his own addons store(not everyone will need the same feature at the same time)
+- Can manage different "crop zone"
+- Can get crop data(ex crop A will have carrot, crop B tomato and systeme will be able to base his soil humidity and stuff based on the crop in it and have "harvest should be ready" alert
