@@ -31,6 +31,8 @@ Managing a greenhouse using candle controller:
 - Alert on some condition(battery, soil to wet, etc....)
 - Main valve in case of water leak
 - water flow sensor to prevent water leak
+- be able to inform if the greehouse is running on battery or on main power if multiple power source are available)
+- must be able to inform if low water in the barrel (so need manual filling
 
 ### Other idea:
 
