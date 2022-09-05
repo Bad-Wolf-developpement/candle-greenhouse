@@ -38,6 +38,8 @@ Managing a greenhouse using candle controller:
 
 - must be able to be added and controller from a main candle controller
 - maybe take advantage of rpi zero-w or other small from factore pi?(can we host the gui outside of the controller????)
+- having motion sensor to take picture of "stealer"
+- having a tunnel option to have secure outside access(or proxy like candle)
 
 # Technologie:
 
@@ -73,3 +75,4 @@ The Addons will have the following feature:
 - have his own addons store(not everyone will need the same feature at the same time)
 - Can manage different "crop zone"
 - Can get crop data(ex crop A will have carrot, crop B tomato and systeme will be able to base his soil humidity and stuff based on the crop in it and have "harvest should be ready" alert
+- Maybe the addon could provide his "own" api so it would be easier to create a Mobile application later
