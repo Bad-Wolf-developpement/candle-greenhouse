@@ -51,6 +51,7 @@ Managing a greenhouse using candle controller:
 - using RPI to handle some motor or other stuff?
 - water flow sensor
 - windows sensor(open close) or pressur button when windows is closed)
+- Maybe create a "crop module" who will manage humidity, watering, light etc... of a specific zone, so it will be easier to add "Zone" to the greenhouse by simply adding a module and adding device to that module
 
 # Interface
 
