@@ -2,6 +2,14 @@
 Greenhouse system using the candle smarthome controller
 
 
+## TODO
+
+ 1. Get familiar with webthings.io code and candlesmarthome code and way to work
+ 2. Run a webthings/candle gatway without GUI
+ 3. Create a basic ui to replace the gateway's ui
+ 3.1. Expend the point 3 into multiple subpoint
+ 
+
 ## Idea:
 
 Managing a greenhouse using candle controller:
